@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=green"/>
+<img src="https://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=green"/>
 </p>
 
 
