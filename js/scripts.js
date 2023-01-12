@@ -33,14 +33,15 @@ function smoothScroll(e) {
       menu.classList.remove("menu-active");
     }
   }, 500);
-}
+};
 
 // Mostrar Slides
 function showSlides() {
-  console.log(slides);
 
   for (let i = 0; i < slides.length; i++) {
     slides[i].classList.remove("active");
+    dots[i].classList.remove("active");
+
   }
 
   slideIndex++;
